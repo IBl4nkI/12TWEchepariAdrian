@@ -1,0 +1,9 @@
+body{background-color:orange;}
+h1{background-color:lightblue; font-family:papyrus; text-align:center; font-size:40px;}
+.table{background-color:lightblue; margin-left:auto; margin-right:auto; font-family:papyrus; font-size:30px; font-weight:bold;}
+h2{background-color:lightblue; font-family:papyrus; text-align:center; font-size:30px;}
+video{width:275px; height:100px;}
+a{margin-left:50px; margin-right:50px; text-decoration:none; border-style: dotted dashed ridge double; border-color: green red blue; border-width:5px; color:green}
+a:hover{border-style: dashed ridge double dotted; border-color: red blue green; color:violet}
+a:active{border-style: ridge double dotted dashed; border-color: blue green red; color:yellow}
+a:visited{}
