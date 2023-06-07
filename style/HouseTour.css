@@ -3,7 +3,7 @@ h1{background-color:lightblue; font-family:papyrus; text-align:center; font-size
 .table{background-color:lightblue; margin-left:auto; margin-right:auto; font-family:papyrus; font-size:30px; font-weight:bold; border-width:5px; border-style:solid}
 h2{background-color:lightblue; font-family:papyrus; text-align:center; font-size:30px;}
 video{width:275px; height:100px;}
-a{margin-left:50px; margin-right:50px; text-decoration:none; border-style: dotted dashed ridge double; border-color: yellow red blue; border-width:5px; color:violet}
-a:hover{border-style: dashed ridge double dotted; border-color: red blue yellow; color:orange}
-a:active{border-style: ridge double dotted dashed; border-color: blue yellow red; color:green}
-a:visited{border-style: double dotted dashed ridge; border-color: yellow red blue; color:purple}
+a{margin-left:50px; margin-right:50px; color:violet}
+a:hover{color:orange}
+a:active{color:green}
+a:visited{color:purple}
