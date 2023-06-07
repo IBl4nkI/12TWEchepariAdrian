@@ -1,7 +1,19 @@
-body{background-color:orange; font-family:papyrus}
-h1{background-color:lightblue; text-align:center; font-size:40px; margin-top:300px; font-size:100px}
-h2{text-align:center; font-size:300%}
-a{margin-left:50px; margin-right:50px; text-decoration:none; border-style: dotted dashed ridge double; border-color: green red blue; border-width:5px; color:green}
-a:hover{border-style: dashed ridge double dotted; border-color: red blue green; color:violet}
-a:active{border-style: ridge double dotted dashed; border-color: blue green red; color:yellow}
-a:visited{border-style: double dotted dashed ridge; border-color: green red blue; color:purple}
+*{text-decoration:none}
+body{background-color:#121212; font-family:papyrus; font-size:200%; color:white}
+hr{background-color:purple; margin-right:100px; margin-left:100px; margin-bottom:50px; padding:3px}
+#header{padding-top:50px; margin-bottom:0px; font-size:300%;}
+#nav{margin-top:0px; margin-bottom:60px; font-size:110%; position:sticky; top: 0px; background-image:url("../images/Sticky.png")}
+#me{float:right; width:325px; height:325px; margin-right:120px}
+#hand{float:left; margin-left:110px; width:32%}
+#logo{float:left; margin-left:135px; width:25%; margin-top:-70px;}
+h1{text-align:center; font-size:200%}
+.right{text-align:right;}
+h2{text-align:center;}
+h5{text-align:right;}
+li{margin-right:70px; margin-left:750px}
+a:link.click{color:red; margin-left:35px; margin-right:35px}
+a:link.link{color:red;}
+a:hover.click, a:hover.link{color:yellow}
+a:active.click, a:active.link{color:white}
+a:visited.click, a:visited.link{color:purple}
+footer{text-align:center; margin-top:-15px; margin-bottom:-30px; font-size:75%}
